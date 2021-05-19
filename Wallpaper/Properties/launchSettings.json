@@ -2,7 +2,7 @@
   "profiles": {
     "Wallpaper": {
       "commandName": "Project",
-      "commandLineArgs": "C:\\Users\\skori\\Downloads\\mountains.jpeg, True"
+      "commandLineArgs": "\"C:\\Users\\skori\\AppData\\Roaming\\erin\\wallpaper.jpg\""
     }
   }
 }
